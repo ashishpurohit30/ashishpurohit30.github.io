@@ -19,7 +19,7 @@ I design, build, and scale enterprise-grade data platforms on Azure, with deep e
 
 ## Executive Snapshot
 
-| 9+ Years | 150+ Pipelines | 5TB+ Migration | 120+ Re-engineered Assets |
+| 9+ Years | 150+ Data Pipelines | 5TB+ EDW Migration | 120+ Re-engineered Assets |
 |---|---|---|---|
 | Enterprise data engineering, architecture, and delivery leadership | Lakehouse ingestion pipelines built using Azure Data Factory | Legacy enterprise warehouse migrated to Azure Synapse | SSIS packages and stored procedures modernized for cloud analytics |
 
@@ -53,16 +53,16 @@ I bring a practical blend of hands-on architecture and delivery leadership: buil
 | Area | Tools & Practices |
 |---|---|
 | **Cloud Data Platform** | Azure Databricks, Azure Data Factory, Azure Synapse Analytics, Azure SQL DB/Warehouse, ADLS Gen2 |
-| **Processing & Modeling** | Apache Spark, PySpark, Spark SQL, Delta Lake, Bronze/Silver/Gold medallion architecture |
+| **Processing & Modeling** | Apache Spark, PySpark, Spark SQL, Delta Lake, Medallion architecture |
 | **DataOps & Reliability** | Azure DevOps, Git-based version control, ARM template deployment, CI/CD, monitoring, alerting |
-| **Engineering Patterns** | Metadata-driven ingestion, parameterized pipelines, reusable orchestration, validation frameworks |
+| **Engineering Patterns** | Metadata-driven ETL ingestion framework, parameterized pipelines, reusable orchestration, validation frameworks, alerting mechanisms |
 | **Leadership** | Team mentoring, solution architecture, stakeholder management, platform migration, L1/L2 technical interviews |
 
 ---
 
 ## Selected Impact
 
-### Enterprise Lakehouse Ingestion Platform
+### Enterprise Lakehouse Ingestion Platform using ADF/ADB
 
 - Led ADF infrastructure for a pharmaceutical lakehouse platform, building a config-driven framework and owning end-to-end delivery of **50+ pipelines**.
 - Connected **8+ source systems** through private endpoints and built **20+ parameterized pipelines** for full and incremental ingestion.
@@ -71,7 +71,7 @@ I bring a practical blend of hands-on architecture and delivery leadership: buil
 - Set up Splunk-based monitoring, email alerting, ADF metadata logging in Azure SQL DB, and daily maintenance workflows for Delta optimization and storage cleanup.
 - Designed an IaC-based CI/CD framework enabling selective ADF promotions across environments.
 
-### Legacy Data Warehouse Modernization
+### Legacy to Cloud Data Warehouse Modernization in Azure
 
 - Led migration of an on-prem BI platform to Azure for a major US auto-auctions firm.
 - Modernized **4TB+** of enterprise warehouse data across approximately **80 dimension and fact tables**.
@@ -90,7 +90,7 @@ I bring a practical blend of hands-on architecture and delivery leadership: buil
 | **Jun 2020 - Dec 2021** | Consultant, Data Management | Blue Altair India Pvt Ltd |
 | **May 2017 - Jun 2020** | Application Development Analyst | Accenture |
 
-Earlier in my career, I worked as a full-stack developer in the US digital marketing domain, delivering internal applications with Angular, Node.js, and MongoDB and migrating product features from AngularJS to Angular 6.
+<!-- Earlier in my career, I worked as a full-stack developer in the US digital marketing domain, delivering internal applications with Angular, Node.js, and MongoDB and migrating product features from AngularJS to Angular 6. -->
 
 ---
 
