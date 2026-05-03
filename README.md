@@ -4,7 +4,7 @@
 
 # Ashish Purohit
 
-### Manager, Data Engineering | Azure Lakehouse Architect | Data Platform Leader
+### Data Engineering Manager | Azure Lakehouse Architect | Data Platform Leader
 
 I design, build, and scale enterprise-grade data platforms on Azure, with deep experience across lakehouse architecture, metadata-driven ingestion, distributed processing, platform migration, CI/CD, and engineering leadership.
 
@@ -19,7 +19,7 @@ I design, build, and scale enterprise-grade data platforms on Azure, with deep e
 
 ## Executive Snapshot
 
-| 9+ Years | 50+ Pipelines | 4TB+ Migration | 120+ Re-engineered Assets |
+| 9+ Years | 150+ Pipelines | 5TB+ Migration | 120+ Re-engineered Assets |
 |---|---|---|---|
 | Enterprise data engineering, architecture, and delivery leadership | Lakehouse ingestion pipelines built using Azure Data Factory | Legacy enterprise warehouse migrated to Azure Synapse | SSIS packages and stored procedures modernized for cloud analytics |
 
