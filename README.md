@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ashishpurohit30.github.io-1B3A6B?style=for-the-badge)](https://ashishpurohit30.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashishpurohit30-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishpurohit30)&nbsp;
 [![Email](https://img.shields.io/badge/Email-ashishpurohit3007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishpurohit3007@gmail.com)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-14b8a6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/Resume_AshishPurohit_v1.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-14b8a6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/Resume_AshishPurohit.pdf)
 
 <br/>
 
@@ -41,7 +41,7 @@ I architected a **config-driven, metadata-based ADF ingestion framework**, built
 
 <div align="center">
 
-|  🗓️ 9+ Years  |  ⚙️ 50+ Lakehouse Pipelines  |  📦 5TB+ Migrated  |  🔗 8+ Source Systems  |  🔄 120+ Pipelines & Procs Modernized  |
+|  🗓️ 9+ Years  |  ⚙️ 100+ Lakehouse Pipelines  |  📦 5TB+ Migrated  |  🔗 10+ Source Systems  |  🔄 120+ Pipelines & Procs Modernized  |
 |:---:|:---:|:---:|:---:|:---:|
 | Enterprise Azure data engineering & platform leadership | Built on a config-driven ADF ingestion framework | Enterprise DW moved to Azure Synapse with minimal downtime | Connected over private endpoints | SSIS and stored procedures re-engineered for Synapse |
 
