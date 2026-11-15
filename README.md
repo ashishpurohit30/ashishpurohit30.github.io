@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05101e,40:0d2038,100:2563eb&height=220&section=header&text=Ashish%20Purohit&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Manager%2C%20Data%20Engineering%20·%20Azure%20·%20Databricks%20·%20Lakehouse%20·%20AI&descAlignY=60&descSize=17&descColor=93c5fd&animation=fadeIn" alt="Ashish Purohit"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05101e,40:0d2038,100:2563eb&height=220&section=header&text=Ashish%20Purohit&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Data%20Engineering%20Manager%20·%20Azure%20·%20Databricks%20·%20Lakehouse%20·%20AI&descAlignY=60&descSize=17&descColor=93c5fd&animation=fadeIn" alt="Ashish Purohit"/>
 
 <!-- PROFILE PHOTO -->
 <img src="assets/AP.jpeg" width="130" style="border-radius:50%; margin-top:-20px; border: 3px solid #2563eb;" alt="Ashish Purohit"/>
@@ -9,7 +9,7 @@
 <br/>
 
 <!-- ANIMATED TYPING TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Azure+Data+Platforms+at+Enterprise+Scale+%F0%9F%9A%80;Databricks+%7C+ADF+%7C+Delta+Lake+%7C+Unity+Catalog+%E2%9A%A1;AI+%26+Agentic+Tooling+%7C+Genie+%7C+LLMs+%7C+RAG+%F0%9F%A4%96;9%2B+Years+%7C+5TB%2B+Migrated+%7C+120%2B+Pipelines+Modernized+%F0%9F%93%A6;Founders+Award+Winner+%7C+Databricks+Partner+Lead+%F0%9F%8F%86" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Azure+Data+Platforms+at+Enterprise+Scale+%F0%9F%9A%80;Databricks+%7C+ADF+%7C+Delta+Lake+%7C+Unity+Catalog+%E2%9A%A1;AI+%26+Agentic+Tooling+%7C+Genie+%7C+LLMs+%7C+RAG+%F0%9F%A4%96;9.5+Years+%7C+3.5TB+Migrated+%7C+100%2B+Pipelines+%7C+20%2B+Engineers+Led+%F0%9F%93%A6;Founders+Award+Winner+%7C+Databricks+Partner+Lead+%F0%9F%8F%86" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -23,7 +23,7 @@
 
 ![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-22c55e?style=flat-square)&nbsp;
 ![Location](https://img.shields.io/badge/📍_Location-Pune,_India-3b82f6?style=flat-square)&nbsp;
-![Experience](https://img.shields.io/badge/⏱_Experience-9%2B_Years-f59e0b?style=flat-square)
+![Experience](https://img.shields.io/badge/⏱_Experience-9.5_Years-f59e0b?style=flat-square)
 
 </div>
 
@@ -31,9 +31,9 @@
 
 ## 🎯 Who I Am
 
-> **Manager, Data Engineering** with 9+ years designing, building, and scaling enterprise-grade data platforms on Azure — specializing in **lakehouse architecture, distributed data processing, and cloud-native ETL/ELT**. I work as a **Solution Architect and Technical Lead**, owning strategy, technical design, and delivery.
+> **Data Engineering Manager** with **9.5 years** architecting, modernizing, and scaling enterprise data platforms on Microsoft Azure — specializing in **Azure Databricks, Azure Data Factory, Synapse Analytics, Lakehouse architecture, and distributed data processing**. Currently **Solution Architect and Technical Lead**, leading and mentoring **20+ data engineers**.
 
-I architected a **config-driven, metadata-based ADF ingestion framework**, built end-to-end lakehouse solutions on **ADF + Azure Databricks + ADLS Gen2**, migrated a **5TB+ enterprise data warehouse** to Azure Synapse, and built the **DataOps framework** that keeps parallel teams shipping reliably. Now extending that foundation with **Databricks Genie and LLM tooling**.
+I delivered metadata-driven ingestion frameworks running **100+ production pipelines across 20+ source systems (~100 GB daily)**, migrated a **3.5 TB data warehouse** to Azure Synapse (60+ SSIS packages, 80+ stored procedures, 600+ reports moved to Power BI), and drove **~70% faster source onboarding, ~40% lower infrastructure costs, and ~30% faster data processing**. Now extending that foundation with **Databricks Genie and LLM tooling**.
 
 ---
 
@@ -41,9 +41,9 @@ I architected a **config-driven, metadata-based ADF ingestion framework**, built
 
 <div align="center">
 
-|  🗓️ 9+ Years  |  ⚙️ 100+ Lakehouse Pipelines  |  📦 5TB+ Migrated  |  🔗 10+ Source Systems  |  🔄 120+ Pipelines & Procs Modernized  |
-|:---:|:---:|:---:|:---:|:---:|
-| Enterprise Azure data engineering & platform leadership | Built on a config-driven ADF ingestion framework | Enterprise DW moved to Azure Synapse with minimal downtime | Connected over private endpoints | SSIS and stored procedures re-engineered for Synapse |
+|  🗓️ 9.5 Years  |  ⚙️ 100+ Pipelines  |  📦 3.5 TB Migrated  |  👥 20+ Engineers Led  |  🚀 ~70% Faster Onboarding  |  💸 ~40% Lower Infra Cost  |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Enterprise Azure data platforms | Production, across 20+ source systems (~100 GB/day) | DW moved to Azure Synapse; 600+ reports to Power BI | Led and mentored across programs | New-source onboarding via config-driven orchestration | Spark tuning & efficient compute/storage use |
 
 </div>
 
@@ -97,8 +97,8 @@ Using **LangChain** to compose LLM-powered applications and agentic workflows, w
 
 ```mermaid
 flowchart LR
-    subgraph SOURCES["🔌 Source Systems (8+)"]
-        S1["Private Endpoint\nConnectivity"]
+    subgraph SOURCES["🔌 Source Systems (20+)"]
+        S1["Secure\nConnectivity"]
     end
 
     subgraph INGEST["⚙️ Ingest — Azure Data Factory"]
@@ -136,7 +136,7 @@ flowchart LR
     OPS -.->|governs| PROCESS
 ```
 
-> Secured via private endpoints, monitored with Splunk, and promoted across environments through IaC-based CI/CD.
+> Secure connectivity and access controls, Splunk monitoring, and IaC-driven CI/CD across DEV/UAT/PROD.
 
 ---
 
@@ -151,6 +151,7 @@ flowchart LR
 ![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![ADLS Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **⚡ Processing & Storage**
 
@@ -177,45 +178,50 @@ flowchart LR
 
 ### 🏥 Enterprise Lakehouse Platform — Pharmaceuticals (US)
 
-> **`ADF` + `Azure Databricks` + `Delta Lake` + `ADLS Gen2` + `Azure SQL` + `Splunk`**
+> **`ADF` + `Azure Databricks` + `Delta Lake` + `ADLS Gen2` + `T-SQL` + `Splunk`**
 
 <table>
 <tr>
-<td><b>📊 50+ Pipelines</b></td>
-<td><b>🔗 8+ Source Systems</b></td>
-<td><b>⚙️ 20+ Parameterized Load Pipelines</b></td>
+<td><b>📊 100+ Production Pipelines</b></td>
+<td><b>🔗 20+ Source Systems</b></td>
+<td><b>📥 ~100 GB Loaded Daily</b></td>
+<td><b>🚀 ~70% Faster Onboarding</b></td>
+<td><b>💸 ~40% Lower Infra Cost</b></td>
 </tr>
 </table>
 
-- 🏗️ Built a **config-driven, metadata-based ADF ingestion framework** and led end-to-end development of **50+ pipelines**
-- 🔗 Connected **8+ source systems** over private endpoints; built **20+ parameterized pipelines** for full and incremental loads
-- 🥇 Standardized raw ingestion into ADLS and transformed it into Delta tables with **PySpark notebooks** in Azure Databricks, structured as **Medallion (Bronze/Silver/Gold)**
-- 🔁 Built reusable trigger/orchestration pipelines so new plant onboardings are repeatable and low-effort
-- 📊 Set up **Splunk monitoring and email alerting**; developed **T-SQL stored procedures** in Azure SQL DB for centralized, auditable ADF metadata logging
-- 💸 Built daily maintenance pipelines to **optimize/vacuum Delta tables** and purge storage by retention, controlling storage and compute costs
-- 🚀 Designed an **IaC-based CI/CD framework** enabling selective (partial) promotions across environments
+- 🏗️ Architected a **config-driven ingestion framework** with ADF/ADB, overseeing end-to-end delivery of **100+ production pipelines** loading **100 GB+ daily** across **20+ enterprise source systems**
+- 👥 Managed and mentored **20+ data engineers**, aligning with Tech Leads and Solution Architects on business and technical outcomes
+- 🚀 Cut new-source onboarding time by nearly **70%** with config-driven orchestration that minimizes custom development
+- 🥇 Designed a **Medallion Lakehouse** on ADLS Gen2 — **~2 TB+** and millions of records processed through scalable **PySpark** transformations in Azure Databricks
+- 💸 Optimized Databricks notebooks and Spark workloads, reducing infrastructure costs by **~40%** through tuning and efficient compute/network/storage use
+- 📊 Built centralized observability with **Splunk** logging and automated email alerting; engineered **T-SQL stored procedures** for audit and file-level metadata logging
+- 🔁 Architected an **IaC-driven CI/CD framework** for ADF pipelines and datasets with selective DEV/UAT/PROD deployment
+- 🧹 Automated **Delta Lake maintenance** — file archival, VACUUM, retention-based cleanup — to control platform costs
 
 ---
 
 ### 🚗 Enterprise DW Migration — Auto Auctions (US)
 
-> **`Azure Synapse` + `Azure SQL DW` + `SSIS` + `T-SQL` + `Azure DevOps` + `Power BI`**
+> **`Azure Synapse` + `Power BI` + `SSIS` + `SSRS` + `T-SQL` + `Azure DevOps`**
 
 <table>
 <tr>
-<td><b>📦 5TB+</b> Migrated</td>
-<td><b>⚙️ 120+ Pipelines / Stored Procedures</b></td>
-<td><b>📐 ~100 Dimension/Fact Tables</b></td>
-<td><b>🔧 60+ Stored Procedures Fixed</b></td>
+<td><b>📦 3.5 TB</b> Warehouse Migrated</td>
+<td><b>📈 600+ Reports</b> SSRS → Power BI</td>
+<td><b>⚙️ 60+ SSIS Packages</b> Re-engineered</td>
+<td><b>📐 80+ Stored Procedures</b> Re-written</td>
+<td><b>👥 Team of 6</b> Engineers Led</td>
 </tr>
 </table>
 
-- ☁️ Led migration of a legacy on-prem BI platform to **Azure Synapse Analytics** with minimal downtime and business continuity
-- 🔄 Re-engineered **SSIS packages** into Synapse pipelines while preserving legacy behavior
-- ✅ Converted stored procedures to **Azure SQL DW-compatible T-SQL** and validated parity for all dimension and fact loads
-- 🛠️ Troubleshot and fixed **60+ stored procedures** to keep KPI tables consistent and executive dashboards reliable
-- 📊 Built ingestion/validation pipelines to **quarantine corrupted files** and enabled near real-time **Power BI activity logging via REST APIs**
-- 🚀 Implemented **CI/CD** for Synapse pipelines and stored procedures with parameterized connections and secrets, plus **branching strategies** for parallel team development
+- ☁️ Led end-to-end migration of a legacy on-prem BI platform for a major US auto-auctions firm to **Azure Synapse Analytics & Power BI**
+- 🔄 Re-engineered **60+ SSIS packages** into Synapse pipelines, preserving business logic while improving orchestration, scalability, and reliability
+- ✅ Re-wrote **80+ legacy stored procedures** in Synapse dedicated SQL pool-compatible T-SQL, ensuring functional parity for dimension and fact workloads
+- 🛠️ Troubleshot and fixed **60+ stored procedures** to keep KPI tables consistent across all dimension and fact sources
+- 📊 Engineered ingestion/validation frameworks to **quarantine corrupted files** and integrated **REST APIs** for near-real-time Power BI activity logging
+- 🚀 Architected **CI/CD** for Synapse pipelines and stored procedures — parameterized configs, connection management, and secure secret handling
+- 👥 Led a team of **6 data engineers**, collaborating with platform owners and stakeholders to stabilize the cloud data platform
 
 ---
 
@@ -232,13 +238,13 @@ flowchart LR
 <td><b>Jan 2024<br/>→ Present</b></td>
 <td>🏆 <b>Manager</b><br/>Data Management</td>
 <td>Blue Altair<br/>India Pvt. Ltd.</td>
-<td>Solution Architect & Technical Lead · DataOps framework · Production stability & SLAs · Databricks Partner Connect lead</td>
+<td>Solution Architect & Technical Lead · Led 20+ engineers · DataOps framework · Production stability & SLAs · Databricks Partner Connect Lead</td>
 </tr>
 <tr>
 <td><b>Jan 2022<br/>→ Dec 2023</b></td>
 <td>⭐ <b>Senior Consultant</b><br/>Data Management</td>
 <td>Blue Altair<br/>India Pvt. Ltd.</td>
-<td>Pharma lakehouse & auto-auctions Synapse migration engagements · Founder's Award (2023)</td>
+<td>Founder's Award (2023)</td>
 </tr>
 <tr>
 <td><b>Jun 2020<br/>→ Dec 2021</b></td>
@@ -273,7 +279,7 @@ Recognised for exceptional performance while managing multiple clients and proje
 ### ⭐ Multiple Spot Awards
 **Blue Altair**
 
-Recognised for delivery excellence, strong customer outcomes, and end-to-end ownership.
+Recognised for delivery excellence, strong customer outcomes, and end-to-end ownership — plus multiple client recognitions for high-quality delivery.
 
 </td>
 <td align="center" width="33%">
