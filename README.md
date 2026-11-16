@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05101e,40:0d2038,100:2563eb&height=220&section=header&text=Ashish%20Purohit&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Data%20Engineering%20Manager%20·%20Azure%20·%20Databricks%20·%20Lakehouse%20·%20AI&descAlignY=60&descSize=17&descColor=93c5fd&animation=fadeIn" alt="Ashish Purohit"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05101e,40:0d2038,100:2563eb&height=220&section=header&text=Ashish%20Purohit&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Data%20Engineering%20Manager%20·%20Azure%20·%20Databricks%20·%20Lakehouse%20·%20DataOps&descAlignY=60&descSize=17&descColor=93c5fd&animation=fadeIn" alt="Ashish Purohit"/>
 
 <!-- PROFILE PHOTO -->
 <img src="assets/AP.jpeg" width="130" style="border-radius:50%; margin-top:-20px; border: 3px solid #2563eb;" alt="Ashish Purohit"/>
@@ -9,7 +9,7 @@
 <br/>
 
 <!-- ANIMATED TYPING TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Azure+Data+Platforms+at+Enterprise+Scale+%F0%9F%9A%80;Databricks+%7C+ADF+%7C+Delta+Lake+%7C+Unity+Catalog+%E2%9A%A1;AI+%26+Agentic+Tooling+%7C+Genie+%7C+LLMs+%7C+RAG+%F0%9F%A4%96;9.5+Years+%7C+3.5TB+Migrated+%7C+100%2B+Pipelines+%7C+20%2B+Engineers+Led+%F0%9F%93%A6;Founders+Award+Winner+%7C+Databricks+Partner+Lead+%F0%9F%8F%86" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Azure+Data+Platforms+at+Enterprise+Scale+%F0%9F%9A%80;Databricks+%7C+ADF+%7C+Delta+Lake+%7C+Unity+Catalog+%E2%9A%A1;Config-Driven+Automation+%7C+~70%25+Faster+Onboarding+%7C+~40%25+Lower+Infra+Cost+%E2%9A%99%EF%B8%8F;9.5+Years+%7C+3.5TB+Migrated+%7C+100%2B+Pipelines+%7C+20%2B+Engineers+Led+%F0%9F%93%A6;Founders+Award+Winner+%7C+Databricks+Partner+Lead+%F0%9F%8F%86" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -33,7 +33,7 @@
 
 > **Data Engineering Manager** with **9.5 years** architecting, modernizing, and scaling enterprise data platforms on Microsoft Azure — specializing in **Azure Databricks, Azure Data Factory, Synapse Analytics, Lakehouse architecture, and distributed data processing**. Currently **Solution Architect and Technical Lead**, leading and mentoring **20+ data engineers**.
 
-I delivered metadata-driven ingestion frameworks running **100+ production pipelines across 20+ source systems (~100 GB daily)**, migrated a **3.5 TB data warehouse** to Azure Synapse (60+ SSIS packages, 80+ stored procedures, 600+ reports moved to Power BI), and drove **~70% faster source onboarding, ~40% lower infrastructure costs, and ~30% faster data processing**. Now extending that foundation with **Databricks Genie and LLM tooling**.
+I delivered metadata-driven ingestion frameworks running **100+ production pipelines across 20+ source systems (~100 GB daily)**, migrated a **3.5 TB data warehouse** to Azure Synapse (60+ SSIS packages, 80+ stored procedures, 600+ reports moved to Power BI), and drove **~70% faster source onboarding, ~40% lower infrastructure costs, and ~30% faster data processing**. Now extending that foundation with **Databricks Genie**.
 
 ---
 
@@ -49,9 +49,9 @@ I delivered metadata-driven ingestion frameworks running **100+ production pipel
 
 ---
 
-## 🤖 AI & Agentic Data Engineering
+## 🤖 Automation & AI-Ready Engineering
 
-> Extending a solid Azure lakehouse foundation with AI-assisted and agentic workflows.
+> Automation-first engineering that makes data platforms faster to extend and ready for AI-assisted workflows.
 
 <table>
 <tr>
@@ -63,33 +63,30 @@ Hands-on with **Databricks Genie** for natural-language access to lakehouse data
 </td>
 <td width="50%" valign="top">
 
-### 🔍 RAG & LLM Pipelines
-Working with **LLMs** and **retrieval-augmented generation (RAG)** patterns over enterprise data.
+### 🔁 Config-Driven Automation
+Architected a **config-driven, metadata-based ingestion framework** on ADF/ADB delivering **100+ production pipelines across 20+ source systems** — cutting new-source onboarding time by **~70%**.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 LangChain & Agentic Workflows
-Using **LangChain** to compose LLM-powered applications and agentic workflows, with prompt engineering for data-centric tasks.
+### ⚙️ Spark Performance Optimization
+Optimized **Databricks notebooks and Spark workloads** through tuning and efficient compute, network, and storage use — reducing infrastructure costs by **~40%**.
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 MLflow
-**MLflow** for tracking experiments and managing models alongside the Databricks lakehouse.
+### 📡 Observability & Reliability
+Centralized **Splunk** logging, automated email alerting for ADF/ADB failures, and **T-SQL audit logging** — accelerating incident response and keeping platforms within SLAs.
 
 </td>
 </tr>
 </table>
 
-**AI Stack:**
-
 ![Databricks Genie](https://img.shields.io/badge/Databricks_Genie-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-14b8a6?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk_Monitoring-000000?style=flat-square&logo=splunk&logoColor=white)
+![Config-Driven](https://img.shields.io/badge/Config--Driven_Frameworks-14b8a6?style=flat-square)
 
 ---
 
@@ -120,10 +117,6 @@ flowchart LR
         PBI["Power BI"]
     end
 
-    subgraph AI["🤖 AI Layer"]
-        GEN["Databricks Genie\nLLMs · RAG · MLflow"]
-    end
-
     subgraph OPS["🚀 DataOps — Azure DevOps"]
         CICD["CI/CD · ARM IaC\nSplunk Monitoring"]
     end
@@ -131,7 +124,6 @@ flowchart LR
     SOURCES --> INGEST --> B --> SI --> G
     G --> PROCESS
     PROCESS --> SERVE
-    G --> AI
     OPS -.->|governs| INGEST
     OPS -.->|governs| PROCESS
 ```
@@ -161,14 +153,13 @@ flowchart LR
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**🛡️ Governance, DevOps & MLOps**
+**🛡️ Governance & DevOps**
 
 ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ARM Templates](https://img.shields.io/badge/ARM_IaC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </div>
 
@@ -305,7 +296,7 @@ Azure Databricks               ████████████████�
 Delta Lake / Lakehouse         ███████████████████░  Expert
 CI/CD & DataOps                ██████████████████░░  Advanced
 Azure Synapse / Enterprise DW  ██████████████████░░  Advanced
-Databricks Genie / LLM tools   ███████████████░░░░░  Hands-on ⚡
+Databricks Genie               ███████████████░░░░░  Hands-on ⚡
 ```
 
 ---
